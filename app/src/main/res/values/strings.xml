@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">SocialMediaLogin</string>
+
+    <string name="facebook_app_id">2311122225707601</string>
+    <string name="fb_login_protocol_scheme">fb2311122225707601</string>
+    <string name="facebook_client_token">3c7a6b82fe0bed9ce170d646d948831a</string>
+    <string name="todo">TODO</string>
+    <string name="welcome_to">Welcome to</string>
+    <string name="the_sparks_foundation">The Sparks Foundation</string>
+    <string name="by_clicking_on_login_you_are_accepting_our_privacy_policy_nand_terms_amp_conditions"><![CDATA[By clicking on login, you are accepting our Privacy Policy \nand Terms & Conditions.]]></string>
+    <string name="login_with_google">Login with Google</string>
+    <string name="_2022_basudev_kar_for_the_sparks_foundation">2022 Basudev Kar for The Sparks Foundation</string>
+    <string name="social_media_integration">SOCIAL MEDIA INTEGRATION</string>
+    <string name="log_out">Log out</string>
+    <string name="designed">Designed By Basudev Kar</string>
+
+
+</resources>
